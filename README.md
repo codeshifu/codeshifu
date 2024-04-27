@@ -1,4 +1,5 @@
 ### Hi there 👋
+You probably are looking for [me](https://github.com/luqmanoop) and here's my [X (Twitter)](https://x.com/luqmanoop) while you're at it ✌🏽
 
 <!--
 **codeshifu/codeshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
